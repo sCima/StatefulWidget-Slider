@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   Text(
-                    '$green',
+                    '$alpha',
                     style: TextStyle(
                         color: Colors.black,
                         fontWeight: FontWeight.bold,
